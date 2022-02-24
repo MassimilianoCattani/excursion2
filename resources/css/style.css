@@ -11,10 +11,23 @@ body{
     background-color: #000;
     font-family:arial, sans-serif;
 }
+section{
+    margin:0.5em;
+}
 h2{
     font-size:4em;
     font-weight:lighter;
 }
+p{
+    margin-top:0.5em;
+    margin-bottom:1.5em;
+}
 a{
     color:aqua;
+}
+footer{
+    margin:0.5em;
+}
+footer p{
+    text-align: right;
 }
